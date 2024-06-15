@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @JogaJones
 - 👀 I’m interested in python
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on *
-- 📫 How to reach me ...
+- 📫 How to reach me instagram
 - 😄 Pronouns: men
-- ⚡ Fun fact: ...
+
 
 <!---
 JogaJones/JogaJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
